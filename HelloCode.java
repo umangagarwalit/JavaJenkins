@@ -1,4 +1,4 @@
-public class JavaJenkinsClass {
+public class HelloCode {
 
 	public static void main(String[] args) {
 		
